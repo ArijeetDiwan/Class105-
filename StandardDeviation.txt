@@ -1,0 +1,9 @@
+
+\sigma	=	population standard deviation
+N	=	the size of the population
+x_i	=	each value from the population
+\mu	=	the population mean
+average is the centre value of the data set 
+standand deviation is a measure how spread out a data set is 
+it finds out how much our data is spreading from central tendecy(mean)
+by this we can find out wheather the data is close to the average or it is spread out over a wide range 
